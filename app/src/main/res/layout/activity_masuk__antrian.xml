@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".masuk_Antrian">
+
+
+    <TextView
+        android:id="@+id/judulConfirm"
+        android:text="Kantin 1"
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:height="100dp"
+        android:textColor="#000000"
+        />
+
+    <TextView
+        android:text="No antrian anda"
+        android:textSize="28dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/posisiantri"
+        android:text="No antrian"
+        android:textSize="28dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/tulisan"
+        android:text="Nama"
+        android:textSize="24dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/NamaFix"
+        android:layout_gravity="center"
+        android:textSize="24dp"
+        android:text="ini nama"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/tulisan1"
+        android:text="Nomor Telepon"
+        android:textSize="24dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/NotelFix"
+        android:layout_gravity="center"
+        android:textSize="24dp"
+        android:text="ini notel"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:height="50dp"/>
+
+    <Button
+        android:id="@+id/Oke"
+        android:text="Next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/Balik"
+        android:text="Back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+
+</LinearLayout>

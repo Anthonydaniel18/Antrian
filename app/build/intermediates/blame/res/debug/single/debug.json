@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_masuk__antrian.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\layout\\activity_masuk__antrian.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_history.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\layout\\layout_history.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kantin1.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\layout\\activity_kantin1.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pilihantrian.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\layout\\activity_pilihantrian.xml"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MAD\\AntrianMAD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MAD\\AntrianMAD\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

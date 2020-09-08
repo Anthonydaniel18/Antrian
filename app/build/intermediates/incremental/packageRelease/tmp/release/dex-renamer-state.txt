@@ -1,0 +1,4 @@
+#Tue Jun 02 18:40:35 ICT 2020
+base.0=D\:\\MAD\\AntrianMAD\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

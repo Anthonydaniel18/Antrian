@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".pilihantrian">
+
+    <TextView
+        android:id="@+id/tittle"
+        android:layout_gravity="center"
+        android:text="Silahkan pilih"
+        android:height="100dp"
+        android:textSize="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"/>
+
+    <Button
+        android:id="@+id/satu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Kantin 1"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Soon to be added more...."
+        android:layout_gravity="center"
+        android:textColor="#000000"
+        />
+
+</LinearLayout>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".listmakananActivity">
+
+    <TextView
+        android:id="@+id/judulPage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Menu Makanan Kantin 1"
+        android:textSize="30sp"
+        ></TextView>
+
+    <ImageView
+        android:background="@mipmap/ic_makanan_foreground"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"></ImageView>
+
+    <TextView
+        android:id="@+id/makan1"
+        android:layout_width="150sp"
+        android:layout_height="70sp"
+        android:text="Mapo Tofu"
+        android:textSize="25sp"></TextView>
+
+    <TextView
+        android:id="@+id/makan2"
+        android:layout_width="200sp"
+        android:layout_height="70sp"
+        android:text="Chicken Katsu"
+        android:textSize="25sp" ></TextView>
+
+    <TextView
+        android:id="@+id/makan3"
+        android:layout_width="100sp"
+        android:layout_height="70sp"
+        android:text="Ramen"
+        android:textSize="25sp" ></TextView>
+
+    <TextView
+        android:id="@+id/makan4"
+        android:layout_width="200sp"
+        android:layout_height="70sp"
+        android:text="Nasi Goreng"
+        android:textSize="25sp" ></TextView>
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="Next" ></Button>
+
+</LinearLayout>
